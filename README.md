@@ -1,6 +1,6 @@
 # video-based-learning
 
-Developed tutoring system based on web learning.
+Developed tutoring system based on web learning. Extract the comments data and automated retrieve the textual data. 
 
 ## Pre-configuration for Elasticsearch
 
